@@ -10,7 +10,7 @@ namespace backend.Data
     {
         protected readonly IConfiguration Configuration;
 
-        public DbSet<User> Employees { get; set; }
+        public DbSet<User> Users { get; set; }
         public DbSet<Models.Task> Tasks { get; set; }
 
         public AppDbContext(IConfiguration configuration)
