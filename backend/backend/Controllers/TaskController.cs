@@ -1,12 +1,14 @@
 ﻿using backend.Services;
 using backend.Templates;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace backend.Controllers
 {
     [Authorize]
+    //[EnableCors("frontendPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class TaskController : ControllerBase

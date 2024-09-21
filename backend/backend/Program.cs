@@ -37,6 +37,15 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
      };
  });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("frontendPolicy",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
+        });
+});
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
@@ -51,6 +60,8 @@ using (var scope = app.Services.CreateScope())
     // Configure the HTTP request pipeline.
 
     app.UseHttpsRedirection();
+
+app.UseCors("frontendPolicy");
 
 app.UseAuthorization();
 

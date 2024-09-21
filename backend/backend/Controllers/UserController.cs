@@ -1,5 +1,6 @@
 ﻿using backend.Services;
 using backend.Templates;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -8,6 +9,7 @@ using System.Text;
 
 namespace backend.Controllers
 {
+    //[EnableCors]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
