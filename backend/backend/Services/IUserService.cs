@@ -5,6 +5,7 @@ namespace backend.Services
 	public interface IUserService
 	{
         Task<int> InsertAsync(UserTemplate insertUser);
+        Task<int> Login(UserTemplate insertUser);
         Task<GetUserTemplate?> GetAsync(int id);
         Task DeleteAsync(int id);
     }

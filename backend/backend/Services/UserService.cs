@@ -39,9 +39,22 @@ namespace backend.Services
                 Username = insertUser.Username,
                 Password = hashedPassword
             };
-            Console.WriteLine(BC.EnhancedVerify(insertUser.Password, hashedPassword));
+            
             await appDbContext.Users.AddAsync(user);
             await appDbContext.SaveChangesAsync();
+
+            return user.Id;
+        }
+
+        public async Task<int> Login(UserTemplate insertUser)
+        {
+            var user = await appDbContext.Users.Where(x => x.Username == insertUser.Username).FirstOrDefaultAsync();
+
+            if (user == null) return -1;
+            //compare input password to the hash in the DB
+            bool isPasswordValid = BC.EnhancedVerify(insertUser.Password, user.Password);
+
+            if (!isPasswordValid) return -1;
 
             return user.Id;
         }
