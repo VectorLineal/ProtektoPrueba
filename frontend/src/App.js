@@ -2,15 +2,15 @@ import './App.css';
 import { Route, Routes } from "react-router-dom";
 import { useState} from "react";
 import { userContext, employeeContext } from "./MyContext";
-import { Employees } from './pages/Employees';
-import { Requests } from './pages/Requests';
+import { EditTask } from './pages/EditTask';
+import { Tasks } from './pages/Tasks';
 import {Login} from './pages/Login';
 import {Register} from './pages/Register';
-import {AddRequest} from "./pages/AddRequest";
+import {AddTask} from "./pages/AddTask";
 
 function App() {
   const [userData, setUserData] = useState({username: "", role: "", token: ""});
-  const [curEmployee, setCurEmployee] = useState(-1);
+  const [curEmployee, setCurEmployee] = useState("");
 
   return (
     <div className="App">
@@ -20,9 +20,9 @@ function App() {
           <Routes>
             <Route path="/" element={<Login/>} />
             <Route path="/register" element={<Register />} />
-            <Route path="/requests" element={<Requests />}/>
-            <Route path="/employees" element={<Employees />}/>
-            <Route path="/addRequest" element={<AddRequest />}/>
+            <Route path="/tasks" element={<Tasks />}/>
+            <Route path="/taskEdit" element={<EditTask />}/>
+            <Route path="/addTask" element={<AddTask />}/>
           </Routes>
         </userContext.Provider>
       </employeeContext.Provider>

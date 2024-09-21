@@ -26,16 +26,15 @@ export function Login(){
         try {
             const response = await client.post('', content);
             console.log("response notes:", response);
-            if(response.status == 201){
+            if(response.status === 200){
                 const data = {
                     id: response.data.id,
                     token: response.data.token
                 }
                 setUserData(data);
-                setCurEmployee(data.id);
-                let path = "/requests"
-                console.log("logged user:", response.data.user);
-                goToNewPage(path);
+                setCurEmployee(content.username);
+                console.log("logged user:", content.username);
+                goToNewPage("/tasks");
             }
         } catch (error) {
             console.log("error:", error);

@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "D:\\projects\\ProtektoPrueba\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\templates\\loginresponsetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\templates\\loginresponsetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\templates\\usertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\templates\\usertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\templates\\inserttasktemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\templates\\inserttasktemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\templates\\updatetasktemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\templates\\updatetasktemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|d:\\projects\\protektoprueba\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1AE34F61-0BF0-4115-BFD4-9A4F7E4FC6B9}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoginResponseTemplate.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\LoginResponseTemplate.cs",
+              "RelativeDocumentMoniker": "backend\\Templates\\LoginResponseTemplate.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\LoginResponseTemplate.cs",
+              "RelativeToolTip": "backend\\Templates\\LoginResponseTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:14:20.465Z",
+              "WhenOpened": "2024-09-21T00:10:26.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Program.cs",
-              "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:11:54.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserTemplate.cs",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\UserTemplate.cs",
-              "RelativeDocumentMoniker": "backend\\Templates\\UserTemplate.cs",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\UserTemplate.cs",
-              "RelativeToolTip": "backend\\Templates\\UserTemplate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:10:11.543Z",
+              "WhenOpened": "2024-09-20T19:04:54.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:04:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\TaskService.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\TaskService.cs",
+              "RelativeToolTip": "backend\\Services\\TaskService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:43:38.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IUserService.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "backend\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:37:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "backend\\Services\\UserService.cs",
               "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\UserService.cs",
               "RelativeToolTip": "backend\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:49:12.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Task.cs",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "backend\\Models\\Task.cs",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Models\\Task.cs",
-              "RelativeToolTip": "backend\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T00:34:45.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Models\\User.cs",
-              "RelativeToolTip": "backend\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T00:16:07.017Z"
+              "WhenOpened": "2024-09-20T16:11:54.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\appsettings.json",
-              "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\appsettings.json",
-              "RelativeToolTip": "backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T00:02:40.138Z"
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ITaskService.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Services\\ITaskService.cs",
+              "RelativeToolTip": "backend\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:38:38.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "InsertTaskTemplate.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\InsertTaskTemplate.cs",
+              "RelativeDocumentMoniker": "backend\\Templates\\InsertTaskTemplate.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\InsertTaskTemplate.cs",
+              "RelativeToolTip": "backend\\Templates\\InsertTaskTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:36:15.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTaskTemplate.cs",
+              "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\UpdateTaskTemplate.cs",
+              "RelativeDocumentMoniker": "backend\\Templates\\UpdateTaskTemplate.cs",
+              "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Templates\\UpdateTaskTemplate.cs",
+              "RelativeToolTip": "backend\\Templates\\UpdateTaskTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:36:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\projects\\ProtektoPrueba\\backend\\backend\\Data\\AppDbContext.cs",
               "RelativeToolTip": "backend\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T00:07:21.996Z",
               "EditorCaption": ""
